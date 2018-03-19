@@ -1,0 +1,9 @@
+{
+  "name": "multiple-realm",
+  "version": "0.1.0",
+  "description": "Testing dependencies on two versions of Realm JS",
+  "dependencies": {
+    "realm-2.2.x": "./2.2.x",
+    "realm-2.3.x": "./2.3.x"
+  }
+}

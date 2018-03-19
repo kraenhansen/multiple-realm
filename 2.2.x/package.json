@@ -1,0 +1,12 @@
+{
+  "name": "realm-2.2.x",
+  "version": "0.1.0",
+  "description": "Helper to access Realm JS",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "realm": "2.2.x"
+  }
+}
